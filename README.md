@@ -6,8 +6,8 @@ Custom KiCad parts library
 
 1. `mkdir -P <your-custom-library-path>` (ex: `mkdir -P /Users/mike/Documents/kicad/libraries`)
 2. `git clone https://github.com/mlilley/kicad-library-mlilley.git <your-custom-library-path>/kicad-library-mlilley`
-3. KiCad > Preferences > Manage Symbol Libraries > + > `mlilley`, `/Users/mike/Documents/kicad/libraries/kicad-library-mlilley/symbols/mlilley.kicad_sym` > Ok
-4. KiCad > Preferences > Manage Footprint Libraries > + > `mlilley`, `/Users/mike/Documents/kicad/libraries/kicad-library-mlilley/footprints/mlilley.pretty` > Ok
+3. KiCad > Preferences > Manage Symbol Libraries > + > `mlilley`, `<your-custom-library-path>/kicad-library-mlilley/symbols/mlilley.kicad_sym` > Ok
+4. KiCad > Preferences > Manage Footprint Libraries > + > `mlilley`, `<your-custom-library-path>/kicad-library-mlilley/footprints/mlilley.pretty` > Ok
 
 ## Add New Downloaded Parts
 
